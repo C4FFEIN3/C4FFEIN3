@@ -69,15 +69,17 @@
 <br/>
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=c4ffein3&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-  
-<br/>  
+## Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=c4ffein3&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bse59123" align="center" />
+</div> 
+<br/>
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=c4ffein3&&style=flat-square" align="center" />
-</div>  
-  
+</div> 
 
 <br/>  
 
