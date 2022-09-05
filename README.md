@@ -70,10 +70,12 @@
 
 
 ## Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=c4ffein3&show_icons=true&count_private=true&hide_border=true" align="center" />
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bse59123" align="center" />
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=c4ffein3&show_icons=true&count_private=true&hide_border=true"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bse59123"/>
 </div> 
 <br/>
+
 
 <br/>
 
