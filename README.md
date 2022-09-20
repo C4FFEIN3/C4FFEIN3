@@ -63,6 +63,7 @@
 - **IoT 환경을 위한 파일시스템 분석** (Conference paper), 조민선, 강동현, *2020 전자통신학술대회(부산/울산/경남지부)*, 2020.12 **(우수논문상)**
 - **L2LRU: LRU 페이지 교체 기법을 위한 러닝 기반 페이지 이동 정책** (Journal article), 조민선, 강동현, *한국정보과학회논문지 (**JOK**)*, 제 48권, 9호, 981-987, 2021.09 **(우수논문상)**
 - **기계 학습 기반 페이지 교체 정책** (Conference paper), 조민선, 강동현, *2021년 한국컴퓨터종합학술대회 논문집 (**KCC**)*, 2021.06
+- **기계 학습 기반 페이지 교체 정책** (Patent), 강동현, 조민선, 출원번호 10-2021-0089771, 2021.07.08 
 - **ML-CLOCK: Efficient Page Cache Algorithm based on Perceptron-based Neural Network** (Journal article), Minseon Cho and Donghyun Kang, *MDPI Electronics*, Vol. 10, No. 20, pp. 1-16, October 2021
 - **Interleaved Data Processing Scheme for Optimizing Tensorflow Framework** (Conference paper), Jinseo Choi, Minseon Cho, and Donghyun Kang, *In Proceedings of the 2021 IEEE International Conference on Consumer Electronics Berlin (**ICCE-Berlin**)*
 - **RocksDB 환경의 F2FS 파일 시스템 분석** (Conference paper), 조민선, 강동현, *2021 전자통신학술대회(부산/울산/경남지부)*, 2021.12 **(우수논문상)**
