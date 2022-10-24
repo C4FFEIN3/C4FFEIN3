@@ -15,7 +15,7 @@
 - 📚 I'm interested in ***operating systems***, and ***file & storage systems***.  
   
 
-- 📑 ***More details about me***: https://c4ffein3.github.io/about.html  
+- 📑 ***Blog***: https://c4ffein3.github.io/  
   
 
 <br/>  
