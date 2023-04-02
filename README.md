@@ -6,19 +6,13 @@
 ### <div align="center">Hello, I'm Minseon Cho. 🌃</div>  
   
 
-- 🔭 I’m a M.S student at [Changwon national university](http://www.changwon.ac.kr/)  
-  
-
-- 💻 I am a member of [Noslab](https://noslab.github.io/) led by Prof. Donghyun Kang  
-  
-
-- 📚 I'm interested in ***operating systems***, and ***file & storage systems***.  
+- 🔭 I’m a **system engineer** at [Kakao Corporation](https://www.kakaocorp.com/) (2022.12 ~ )
   
 
 - 📑 ***Blog***: https://c4ffein3.github.io/  
   
 
-<br/>  
+<br/>
 
 
 ## My Skill Set  
@@ -57,6 +51,12 @@
 
 <br/>
 
+
+## Education
+- **(M.S.)** Computer Engineering, Changwon National University, South Korea, February 2023
+  - Supervisor: Donghyun Kang
+  - Thesis: 실시간 학습 기반 페이지 캐시 교체 기법 (Realtime learning-based page cache replacement algorithm)
+- **(B.S.)** Computer Engineering, Changwon National University, South Korea, February 2021
 
 ## Publications
 
