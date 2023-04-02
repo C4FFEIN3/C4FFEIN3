@@ -58,6 +58,8 @@
   - Thesis: 실시간 학습 기반 페이지 캐시 교체 기법 (Realtime learning-based page cache replacement algorithm)
 - **(B.S.)** Computer Engineering, Changwon National University, South Korea, February 2021
 
+<br/>
+  
 ## Publications
 
 - **IoT 환경을 위한 파일시스템 분석** (Conference paper), 조민선, 강동현, *2020 전자통신학술대회(부산/울산/경남지부)*, 2020.12 **(우수논문상)**
